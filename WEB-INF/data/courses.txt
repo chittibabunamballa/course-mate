@@ -1,0 +1,45 @@
+Computer Architecture,1
+Computer Networks,2
+Special Topics in Computer Science,1
+Fundamentals of Computer Systems,2
+Fundamentals of Theoretical Computer Science,1
+Advances in DBMS,2
+Topics in Contemporary Microarchitecture,1
+Advanced Computer Architecture,2
+VLSI Design for Parallel Architectures,1
+Topics in Embedded Systems,2
+Advanced Computer Networks,1
+Computer Systems Security,2
+Topics in Distributed Systems,1
+Parallel Computing,2
+Mobile Computing,1
+Computational Complexity,2
+Modern Cryptology,1
+Circuit Complexity Theory,2
+Finite Automata on Infinite Inputs,1
+Topics in Design and Analysis of Algorithms,2
+Parallel Algorithms,1
+Advanced Topics in Algorithms and Data Structures,2
+Randomized Algorithms,1
+Logic in Computer Science,2
+Functional Programming,1
+Software Architecture,2
+Fundamentals of Interactive Computer Graphics,1
+Computational Geometry,2
+Algorithms for Combinatorial Geometry,1
+Artificial Intelligence,2
+Computer Vision and Image Processing,1
+Learning with kernels,2
+Category Theory and Applications in Computing,1
+Computational Algebra and Number Theory,2
+Quantum Computing,1
+Biometric Recognition,2
+Algorithmic Information Theory,1
+Data Streaming Algorithms and Systems,2
+VLSI Testing and Fault-Tolerance,1
+Topics in Logic and Computation,2
+Structural Complexity,1
+Parallel Complexity and Sub-Logarithmic Time Algorithms,2
+Advanced Graph Algorithms,1
+Pseudo-Random Generators,2
+Language Acquisition,1
